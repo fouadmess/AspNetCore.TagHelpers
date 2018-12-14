@@ -1,2 +1,2 @@
-# NetCore
-A bunch of libraries for .NET (Core)
+# AspNetCore.TagHelpers
+Html tag helpers for ASP.NET Core
